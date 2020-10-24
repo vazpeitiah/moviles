@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea número 1</string>
+    <string name="myname">Vladimir Azpeitia Hernández</string>
+    <string name="primo">Número primos</string>
+    <string name="fibonacci">Serie Fibonacci</string>
+    <string name="magico">Número Mágico</string>
+    <string name="palindromos">Cadena Palindroma</string>
+</resources>
