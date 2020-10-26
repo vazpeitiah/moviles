@@ -18,3 +18,4 @@ Materia optativa de la ESCOM del plan de estudios 2009
 | ListView         | :heavy_check_mark:       | :heavy_check_mark:       | 26 Oct 2020      |                                                          |
 | Spinner          | :heavy_check_mark:       | :heavy_check_mark:       | 26 Oct 2020      |                                                          |
 | Pestañas         | :heavy_check_mark:       | :heavy_check_mark:       | 26 Oct 2020      |                                                          |
+| SQLite           | :heavy_check_mark:       | :heavy_check_mark:       | 02 Nov 2020      |                                                          |
