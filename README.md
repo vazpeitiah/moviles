@@ -5,8 +5,8 @@ Materia optativa de la ESCOM del plan de estudios 2009
 
 ## Tabla de contenidos
 
-| Tema       | Codigo                   | reporte                  | Fecha de entrega | Descripción                                              |
-|------------|--------------------------|--------------------------|------------------|----------------------------------------------------------|
+| Tema       | Codigo                   | Reporte                  | Fecha de entrega | Descripción                                              |
+|------------|--------------------------|--------------------------|-----------------:|----------------------------------------------------------|
 | Tarea1     | :heavy_check_mark:       | :heavy_multiplication_x: | 12 Oct 2020      | Tarea de números primos, fibonaccio, mágico y palidromos |
 | EditText   | :heavy_multiplication_x: | :heavy_multiplication_x: | 12 Oct 2020      |                                                          |
 | Buttons    | :heavy_check_mark:       | :heavy_multiplication_x: | 12 Oct 2020      |                                                          |
